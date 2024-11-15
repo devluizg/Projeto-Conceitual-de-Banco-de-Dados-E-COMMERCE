@@ -135,7 +135,7 @@
     </ul>
     <h2>Conclusão</h2>
     <p>
-        Este projeto fornece uma base sólida para a gestão de uma universidade, abrangendo todas as entidades e relacionamentos necessários para um sistema completo e funcional. Ao implementar este modelo, você estará criando um recurso valioso para seu portfólio de projetos no GitHub.
+        Este projeto oferece uma solução bem estruturada e abrangente para a gestão de uma universidade, cobrindo desde entidades essenciais, como alunos e professores, até elementos complementares, como cursos extras e formas de pagamento. O modelo foi desenvolvido com foco na organização, flexibilidade e escalabilidade, garantindo que ele possa atender às demandas de uma instituição de ensino superior. Além disso, os relacionamentos foram pensados para assegurar a integridade dos dados e refletir os processos reais do ambiente acadêmico.
     </p>
 </body>
 </html>
