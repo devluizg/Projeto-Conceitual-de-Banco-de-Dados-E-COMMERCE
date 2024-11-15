@@ -133,21 +133,6 @@
         <li><strong>Pagamento</strong>: Pode ter mais de uma forma de pagamento cadastrada.</li>
         <li><strong>Entrega</strong>: Possui status e código de rastreio.</li>
     </ul>
-    <h2>Instruções para Implementação</h2>
-    <ol>
-        <li><strong>Clone o Repositório</strong>:
-            <pre><code>git clone &lt;URL_DO_REPOSITORIO&gt;</code></pre>
-        </li>
-        <li><strong>Navegue até o Diretório do Projeto</strong>:
-            <pre><code>cd nome-do-projeto</code></pre>
-        </li>
-        <li><strong>Abra o MySQL Workbench</strong> e crie um novo esquema de banco de dados.</li>
-        <li><strong>Implemente o Modelo</strong>: Utilize o script SQL fornecido no repositório para criar as tabelas e os relacionamentos conforme descrito.</li>
-        <li><strong>Adicione a Descrição do Projeto ao README</strong>: Inclua a descrição conceitual do projeto no arquivo <code>README.md</code> para fornecer o contexto sobre o esquema.</li>
-        <li><strong>Suba o Projeto para o GitHub</strong>:
-            <pre><code>git add .<br>git commit -m "Adiciona modelo de banco de dados para sistema de universidade"<br>git push origin main</code></pre>
-        </li>
-    </ol>
     <h2>Conclusão</h2>
     <p>
         Este projeto fornece uma base sólida para a gestão de uma universidade, abrangendo todas as entidades e relacionamentos necessários para um sistema completo e funcional. Ao implementar este modelo, você estará criando um recurso valioso para seu portfólio de projetos no GitHub.
